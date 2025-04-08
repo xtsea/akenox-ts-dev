@@ -17,6 +17,13 @@ Versi premium berbasis TypeScript dengan performa lebih stabil, cepat di-update,
 
 > Catatan: Tidak tersedia versi ZIP. Hanya via request dan aktivasi oleh developer.
 
+### Free API Platform
+| Endpoint       | Method | Request     |
+|----------------|--------|------------------|
+| [`facebook-dl`](https://faster.maiysacollection.com/v2/fast/fdownloader-dl?link=sini)   | GET    | 1000 Request Day |
+| [`instgram-dl`](https://faster.maiysacollection.com/v2/fast/instagram-dl?link=sini)    | GET    | 1000 Request Day |
+| [`tiktok-dl`](https://faster.maiysacollection.com/v2/fast/tiktok-dl?link=sini)     | GET    | 1000 Request Day |
+| [`fdownloader-dl`](https://faster.maiysacollection.com/v2/fast/fdownloader-dl?link=sini) | GET    | 1000 Request Day |
 ---
 
 ### 1. License & Usage
