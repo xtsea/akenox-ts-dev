@@ -20,10 +20,10 @@ Versi premium berbasis TypeScript dengan performa lebih stabil, cepat di-update,
 ### Free API Platform
 | Endpoint       | Method | Request     |
 |----------------|--------|------------------|
-| [`facebook-dl`](https://faster.maiysacollection.com/v2/fast/fdownloader-dl?link=sini)   | GET    | 1000 Request Day |
-| [`instgram-dl`](https://faster.maiysacollection.com/v2/fast/instagram-dl?link=sini)    | GET    | 1000 Request Day |
-| [`tiktok-dl`](https://faster.maiysacollection.com/v2/fast/tiktok-dl?link=sini)     | GET    | 1000 Request Day |
-| [`fdownloader-dl`](https://faster.maiysacollection.com/v2/fast/fdownloader-dl?link=sini) | GET    | 1000 Request Day |
+| [`facebook-dl`](https://faster.maiysacollection.com/v2/fast/fdownloader-dl?link=https://www.facebook.com/share/v/18TTjDwUb6/)   | GET    | 1000 Request Day |
+| [`instgram-dl`](https://faster.maiysacollection.com/v2/fast/instagram-dl?link=https://www.instagram.com/reel/DEpPZT2RnXy/?igsh=MTc5bHEwem5kcmt3Mg==)    | GET    | 1000 Request Day |
+| [`tiktok-dl`](https://faster.maiysacollection.com/v2/fast/tiktok-dl?link=https://vt.tiktok.com/ZSMdyXqXd/)     | GET    | 1000 Request Day |
+| [`fdownloader-dl`](https://faster.maiysacollection.com/v2/fast/fdownloader-dl?link=https://www.facebook.com/share/v/18TTjDwUb6/) | GET    | 1000 Request Day |
 ---
 
 ### 1. License & Usage
