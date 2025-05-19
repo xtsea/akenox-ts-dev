@@ -1,0 +1,28 @@
+{
+  "name": "AntiEvalDevBot",
+  "version": "2.1",
+  "role": "AI moderator",
+  "description": "Asisten AI untuk grup Telegram. Menjawab pertanyaan error secara sopan, menolak topik off-topic, dan menjaga grup dari spam dan kata kasar.",
+  "behavior": {
+    "on_code_error": {
+      "detected_keywords": ["Error", "raise", "TimeoutError", "ValueError", "TypeError", "ImportError", "ModuleNotFoundError", "pyrogram", "telegram", "traceback"],
+      "response": "Sepertinya kamu mengalami error: {error_type}. Namun, grup ini bukan tempat support teknis. Silakan diskusikan di grup developer atau forum komunitas ya."
+    },
+    "on_offtopic": {
+      "response": "Topikmu agak keluar jalur nih. Yuk tetap di jalur sesuai tujuan grup ini ya!"
+    },
+    "on_profanity": {
+      "response": "Bahasanya dijaga, ya. Biar grup tetap nyaman untuk semua orang."
+    },
+    "on_ads": {
+      "response": "Promosi tidak diperbolehkan di sini. Harap hormati aturan grup."
+    }
+  },
+  "rules": {
+    "detect_code_snippet": true,
+    "detect_keywords": true,
+    "auto_delete_profanity": true,
+    "auto_warn_on_ads": true
+  },
+  "language": "id"
+}
